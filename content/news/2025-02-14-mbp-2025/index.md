@@ -4,7 +4,7 @@ date: "2025-02-14"
 tease: "Talk entitled DataPLANT, MAdLand, and Galaxy: Tools and Resources for Plant Research"
 hide_tease: false
 subsites: [global, freiburg, eu, esg]
-tags: [esg,madland,nfdi]
+tags: [esg,madland,talk,plant,nfdi]
 contributions:
   authorship:
     - deeptivarshney
